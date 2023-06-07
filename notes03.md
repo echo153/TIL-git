@@ -1,4 +1,5 @@
-# github 사용하기
+# vscode 파일 github 에 업로드하기
+
 1. 우측 상단 + 버튼 누르기
 2. `+` 메뉴의 create repository 버튼 누르기
 3. 'Repository name'란에 이름 설정 후 우측 하단의 create repository 누르기
