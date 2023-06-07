@@ -1,0 +1,1 @@
+TIL : Today I Learned 의 약자로, 오늘 배운 내용을 기록하는 용도로 사용
